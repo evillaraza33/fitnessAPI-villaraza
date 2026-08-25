@@ -1,0 +1,13 @@
+# 🔒 Sensitive environment variables — NEVER commit these!
+.env
+
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
